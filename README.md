@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="./img/github_banner.jpg" alt="Welcome to my profile!" width="800">
+<img src="./img/github_banner.jpg" alt="Welcome to my profile!" width="1000">
 </p>
 
 <h1 align="center">Hi, I'm Nick Christoforidis!/h1>
