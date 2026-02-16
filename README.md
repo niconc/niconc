@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hi, I'm Nick Christoforidis!</h1>
-<h2 align="center">Self-Taught, Self-Driven Junior Go Developer</h2>
-<h2 align="center">Looking for a job...</h2>
+<h3 align="center">Self-Taught, Self-Driven Junior Go Developer<br>Looking for a job</h3>
