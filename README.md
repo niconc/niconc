@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p align="right">
 <img src="./img/github_banner.jpg" alt="Welcome to my profile!" width="850">
 </p>
 
-<h1 align="center">Hi, I'm Nick Christoforidis!</h1>
-<h3 align="center">Self-Taught, Self-Driven Junior Go Developer<br>and, looking for a job...</h3>
+<h1 align="right">Hi, I'm Nick Christoforidis!</h1>
+<h3 align="right">Self-Taught, Self-Driven Junior Go Developer<br>and, looking for a job...</h3>
