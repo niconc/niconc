@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <img src="./img/github_banner.jpg" alt="Welcome to my profile!" width="850">
 </p>
 
-<h1 align="right">Hi, I'm Nick Christoforidis!</h1>
+<h1 align="right">həˈloʊ jʊ ɔl<br>I'm Nick Christoforidis!</h1>
 <h3 align="right">Self-Taught, Self-Driven Junior Go Developer<br>and, looking for a job...</h3>
