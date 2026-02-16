@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hi, I'm Nick Christoforidis! 👋</h1>
+
+<p align="left">
+<img src="niconc&show_icons=true&theme=tokyonight" alt="My Stats" height="150">
+</p>
