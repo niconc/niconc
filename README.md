@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<img src="./img/squeeze-visual.png" alt="Welcome to my profile!" width="800">
+</p>
+
+<h1 align="center">Hi, I'm Nick Christoforidis! 👋</h1>
